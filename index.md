@@ -4,8 +4,8 @@
 Call for Papers <br>
 International Workshop on Bots in Software Engineering <br>
 (BotSE)</b></h2>
-May xx, 2019, Montreal, Canada. In conjunction with ICSE 2019.<br>
-<a href="https://botse.github.io/2018/">https://botse.github.io/2018/</a>
+May 29, 2019, Montreal, Canada. In conjunction with ICSE 2019.<br>
+<a href="https://botse.github.io/">https://botse.github.io/</a>
 </div>
 
 Bots (short for software robots) are software applications that perform often repetitive or simple tasks. In particular, social and chat bots interacting with humans are a recent research topic. Similarly, bots can be used to automate many tasks that are performed by software practitioners and teams in their day-to-day work. Recent work argue that bots can save de-velopers' time and significantly increase productivity. Therefore, the goal of this one-day workshop is to bring together software engineering researchers and practitioners to discuss the opportunities and challenges of bots in software engineering.
@@ -25,16 +25,27 @@ Papers may address issues along the general themes, including but not limited, t
 - Experiences using bot frameworks in software systems
 
 ## **Important Dates**
-Papers due:	            month-day, 2019 <br>
-Author notification:	month-day, 2019 <br>
-Camera ready:	        month-day, 2019 <br>
+Submissions due: Feb 1, 2019 <br>
+Notifications: Mar 1, 2019 <br>
+Camera-ready due: March 15, 2019 <br>
+
+## **Organizers**
+
+Emad Shihab — Concordia University <br>
+Stefan Wagner - University of Stuttgart 
+
+## **Web Chair**
+Ahmad Abdellatif — Concordia University
+
+## **Publicity Chair**
+Marvin Wyrich - University of Stuttgart
+
 
 ## **Program Committee**
 
 Marco Gerosa - Northern Arizona University <br>
 Regina Hebig - University of Gothenburg <br>
 David Lo - Singapore Management University <br>
-Josh Nichols - GitHub <br>
 Chris Parnin - North Carolina State University <br>
 Riccardo Scandariato - University of Gothenburg <br>
 Lionel Seinturier - University of Lille & Inria Lille <br>
@@ -44,8 +55,3 @@ Xin Xia - Monash University <br>
 Zhenchang Xing - Australian National University <br>
 Alexey Zagalsky - University of Victoria <br>
 Martin Monperrus - KTH Royal Institute of Technology
-
-## **Organizers**
-
-Emad Shihab — Concordia University <br>
-Stefan Wagner– University of Stuttgart 
