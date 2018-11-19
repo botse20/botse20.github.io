@@ -4,7 +4,7 @@
 Call for Papers <br>
 International Workshop on Bots in Software Engineering <br>
 (BotSE)</b></h2>
-May 29, 2019, Montreal, Canada. In conjunction with ICSE 2019.<br>
+May 2019, Montreal, Canada. In conjunction with ICSE 2019.<br>
 <a href="https://botse.github.io/">https://botse.github.io/</a>
 </div>
 
