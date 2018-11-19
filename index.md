@@ -31,11 +31,11 @@ Camera-ready due: March 15, 2019 <br>
 
 ## **Organizers**
 
-Emad Shihab — Concordia University <br>
+Emad Shihab - Concordia University <br>
 Stefan Wagner - University of Stuttgart 
 
 ## **Web Chair**
-Ahmad Abdellatif — Concordia University
+Ahmad Abdellatif - Concordia University
 
 ## **Publicity Chair**
 Marvin Wyrich - University of Stuttgart
