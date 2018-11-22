@@ -24,6 +24,10 @@ Papers may address issues along the general themes, including but not limited, t
 - Issues in the interaction of bots and developers and other stakeholders
 - Experiences using bot frameworks in software systems
 
+## **Submission**
+The submitted papers must follow the <a href="https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers">ICSE 2019 formatting and submission instructions</a>.
+Papers must be submitted through <a href="https://easychair.org/conferences/?conf=botse19">EasyChair</a>.  
+
 ## **Important Dates**
 Submissions due: Feb 1, 2019 <br>
 Notifications: Mar 1, 2019 <br>
