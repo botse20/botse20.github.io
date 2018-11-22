@@ -24,9 +24,14 @@ Papers may address issues along the general themes, including but not limited, t
 - Issues in the interaction of bots and developers and other stakeholders
 - Experiences using bot frameworks in software systems
 
-## **Submission**
-The submitted papers must follow the <a href="https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers">ICSE 2019 formatting and submission instructions</a>. <br>
-Papers must be submitted through <a href="https://easychair.org/conferences/?conf=botse19">EasyChair</a>.  
+## **How to Submit (adapted from ICSE)**
+Submission must not exceed 4 pages, including all text, figures, tables, and appendices; one additional page containing only references are permitted. Submissions must conform to the <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html">IEEE Conference Proceedings Formatting Guidelines</a> (title in 24pt font and full text in 10pt type, LaTEX users must use <span style="color:crimson">\documentclass[10pt,conference]{IEEEtran}</span> without including the <span style="color:crimson">compsoc</span> or <span style="color:crimson">compsocconf</span> option).
+<br>
+The submission must also comply with the <a href="http://www.acm.org/publications/policies/plagiarism_policy">ACM plagiarism policy and procedures</a>. In particular, submissions must not have been published elsewhere and must not be under review elsewhere. The submission must also comply with the <a href="http://ieeeauthorcenter.ieee.org/publish-with-ieee/publishing-ethics/">IEEE Policy on Authorship.</a>
+<br>
+Submissions to the workshop can be made via <a href="https://easychair.org/conferences/?conf=botse19">easychair</a> by the submission deadline.
+<br>
+If a submission is accepted, at least one author of the paper is required to attend the workshop and present the paper in person.
 
 ## **Important Dates**
 Submissions due: Feb 1, 2019 <br>
