@@ -25,7 +25,7 @@ Papers may address issues along the general themes, including but not limited, t
 - Experiences using bot frameworks in software systems
 
 ## **Submission**
-The submitted papers must follow the <a href="https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers">ICSE 2019 formatting and submission instructions</a>.
+The submitted papers must follow the <a href="https://2019.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers">ICSE 2019 formatting and submission instructions</a>. <br>
 Papers must be submitted through <a href="https://easychair.org/conferences/?conf=botse19">EasyChair</a>.  
 
 ## **Important Dates**
