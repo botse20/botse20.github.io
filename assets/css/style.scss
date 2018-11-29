@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+.page-header{
+	background-image: url("botlogo.png");
+    background-repeat: no-repeat;
+}
