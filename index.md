@@ -54,7 +54,6 @@ Marvin Wyrich - University of Stuttgart
 
 Marco Gerosa - Northern Arizona University <br>
 Regina Hebig - University of Gothenburg <br>
-David Lo - Singapore Management University <br>
 Chris Parnin - North Carolina State University <br>
 Riccardo Scandariato - University of Gothenburg <br>
 Lionel Seinturier - University of Lille & Inria Lille <br>
